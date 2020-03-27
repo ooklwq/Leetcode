@@ -1,8 +1,8 @@
 import java.util.Stack;
 
-// Time complexity : O(n)
-// Space complexity : O(n)
 class Solution2 {
+    // Time complexity : O(n)
+    // Space complexity : O(n)
     public boolean isValid(String s) {
         Stack<Character>  stack = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
