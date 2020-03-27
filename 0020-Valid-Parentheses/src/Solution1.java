@@ -1,6 +1,8 @@
 import java.util.HashMap;
 import java.util.Stack;
 
+// Time complexity : O(n)
+// Space complexity : O(n)
 class Solution1 {
     public boolean isValid(String s) {
         HashMap<Character, Character> mappings = new HashMap<>();
