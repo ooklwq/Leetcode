@@ -10,6 +10,11 @@
 | 020 | [Valida Parentheses](https://leetcode.com/problems/valida-parentheses/description/) | Easy |[Solution](https://leetcode.com/problems/valida-parentheses/solution/) | [Java](0020-Valida-Parentheses/src/Solution2.java) | Stack |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Easy |[Solution](https://leetcode.com/problems/min-stack/solution/) | [Java](0155-Min-Stack/src/MinStack2.java) | Stack |
 
+## LinkedList
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [Java](0237-Delete-Node-in-a-Linked-List/src/Solution.java) | LinkedList |
+
 ## Two Pointers
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
