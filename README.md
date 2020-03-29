@@ -14,4 +14,5 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |[Solution](https://leetcode.com/problems/move-zeros/solution/) | [Java](0283-Move-Zeroes/src/Solution1.java) | Two Pointers, Array |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/middle-of-the-linked-list/solution/) | [Java](0876-Middle-of-the-Linked-List/src/Solution.java) | Two Pointers, LinkedList |
 
