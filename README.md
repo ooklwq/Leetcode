@@ -13,8 +13,9 @@
 ## LinkedList
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | Easy |[Solution](https://leetcode.com/problems/remove-linked-list-elements/solution/) | [Java](0203-Remove-Linked-List-Elements/src/Solution.java) | LinkedList, Recursion |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/reverse-linked-list/solution/) | [Java](0206-Reverse-Linked-List/src/Solution.java) | LinkedList, Recursion |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [Java](0237-Delete-Node-in-a-Linked-List/src/Solution.java) | LinkedList |
-| 237 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | Easy |[Solution](https://leetcode.com/problems/remove-linked-list-elements/solution/) | [Java](0203-Remove-Linked-List-Elements/src/Solution.java) | LinkedList, Recursion |
 
 ## Two Pointers
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
