@@ -22,6 +22,10 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [Java](0094-Binary-Tree-Inorder-Traversal/src/Solution.java) | Tree, Stack, HashTable |
 
+## HashTable
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |[Solution](https://leetcode.com/problems/single-number/solution/) | [Java](0136-Single-Number/src/Solution.java) | HashTable, Bit Manipulation |
 
 ## Two Pointers
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
