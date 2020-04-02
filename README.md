@@ -26,6 +26,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |[Solution](https://leetcode.com/problems/single-number/solution/) | [Java](0136-Single-Number/src/Solution.java) | HashTable, Bit Manipulation |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | Easy |[Solution](https://leetcode.com/problems/happy-number/solution/) | [Java](0202-Happy-Number/src/Solution.java) | HashTable, Math, Two Pointers |
 
 ## Two Pointers
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
