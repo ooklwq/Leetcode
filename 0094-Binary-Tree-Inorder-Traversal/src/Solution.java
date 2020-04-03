@@ -1,18 +1,19 @@
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
-    private List<Integer> list = new LinkedList<>();
+    //Time Complexity: O(n)
+    //Space Complexity: O(h):h is the height of the tree.
     public List<Integer> inorderTraversal(TreeNode root) {
-        if (root == null) return list;
-        inorderTraversal(root.left);
-        list.add(root.val);
-        inorderTraversal(root.right);
-        return list;
+        List<Integer> res = new ArrayList<>();
+        inorderTraversal(root, res);
+        return res;
     }
 
-    public static void main(String[] args) {
-        Integer[] nums = {1, null, 2, 3};
-        TreeNode root = new TreeNode(nums);
+    private void inorderTraversal(TreeNode root, List<Integer> list){
+        if (root == null) return;
+        inorderTraversal(root.left, list);
+        list.add(root.val);
+        inorderTraversal(root.right, list);
     }
 }
