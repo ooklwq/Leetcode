@@ -21,7 +21,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [Java](0094-Binary-Tree-Inorder-Traversal/src/Solution.java) | Tree, Stack, HashTable |
-
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solution/) | [Java](0144-Binary-Tree-Preorder-Traversal/src/Solution.java) | Tree, Stack, HashTable |
 ## HashTable
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
