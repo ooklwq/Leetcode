@@ -21,7 +21,9 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [Java](0094-Binary-Tree-Inorder-Traversal/src/Solution.java) | Tree, Stack, HashTable |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solution/) | [Java](0144-Binary-Tree-Preorder-Traversal/src/Solution.java) | Tree, Stack, HashTable |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solution/) | [Java](0144-Binary-Tree-Preorder-Traversal/src/Solution.java) | Tree, Stack |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Hard |[Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [Java](0145-Binary-Tree-Postorder-Traversal/src/Solution.java) | Tree, Stack |
+
 ## HashTable
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
@@ -34,4 +36,9 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy |[Solution](https://leetcode.com/problems/linked-list-cycle/solution/) | [Java](0141-Linked-List-Cycle/src/Solution.java) | Two Pointers, LinkedList |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |[Solution](https://leetcode.com/problems/move-zeros/solution/) | [Java](0283-Move-Zeroes/src/Solution1.java) | Two Pointers, Array |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/middle-of-the-linked-list/solution/) | [Java](0876-Middle-of-the-Linked-List/src/Solution.java) | Two Pointers, LinkedList |
+
+## Dynamic Programming
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
 
