@@ -21,6 +21,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [Java](0094-Binary-Tree-Inorder-Traversal/src/Solution.java) | Tree, Stack, HashTable |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/solution/) | [Java](0104-Maximum-Depth-of-Binary-Tree/src/Solution.java) | Tree, Depth-first Search |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solution/) | [Java](0144-Binary-Tree-Preorder-Traversal/src/Solution.java) | Tree, Stack |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Hard |[Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [Java](0145-Binary-Tree-Postorder-Traversal/src/Solution.java) | Tree, Stack |
 
