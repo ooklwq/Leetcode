@@ -28,6 +28,7 @@
 ## HashTable
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium |[Solution](https://leetcode.com/problems/group-anagrams/solution/) | [Java](0049-Group-Anagrams/src/Solution.java) | HashTable, String |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |[Solution](https://leetcode.com/problems/single-number/solution/) | [Java](0136-Single-Number/src/Solution.java) | HashTable, Bit Manipulation |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | Easy |[Solution](https://leetcode.com/problems/happy-number/solution/) | [Java](0202-Happy-Number/src/Solution.java) | HashTable, Math, Two Pointers |
 
