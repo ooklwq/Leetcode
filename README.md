@@ -25,6 +25,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solution/) | [Java](0144-Binary-Tree-Preorder-Traversal/src/Solution.java) | Tree, Stack |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Hard |[Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [Java](0145-Binary-Tree-Postorder-Traversal/src/Solution.java) | Tree, Stack |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | Easy |[Solution](https://leetcode.com/problems/merge-two-binary-trees/solution/) | [Java](0617-Merge-Two-Binary-Trees/src/Solution.java) | Tree |
+| 1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/solution/) | [Java](1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/src/Solution.java) | Tree |
 
 ## HashTable
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
