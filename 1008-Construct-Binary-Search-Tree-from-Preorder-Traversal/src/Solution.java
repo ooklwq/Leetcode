@@ -1,5 +1,5 @@
 class Solution {
-    //Time Complexity: O(n)
+    //Time Complexity: O(n^2)
     //Space Complexity: O(n)
     public TreeNode bstFromPreorder(int[] preorder) {
         TreeNode root = null;
