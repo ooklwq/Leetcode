@@ -47,3 +47,7 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
 
+## Bit Manipulation
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) | Medium |[Solution](https://leetcode.com/problems/bitwise-and-of-numbers-range/solution/) | [Java](0201-Bitwise-AND-of-Numbers-Range/src/Solution.java) | Bit Manipulation |
