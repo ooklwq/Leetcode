@@ -51,3 +51,8 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) | Medium |[Solution](https://leetcode.com/problems/bitwise-and-of-numbers-range/solution/) | [Java](0201-Bitwise-AND-of-Numbers-Range/src/Solution.java) | Bit Manipulation |
+
+## Design
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium |[Solution](https://leetcode.com/problems/lru-cache/solution/) | [Java](0146-LRU-Cache/src/LRUCache.java) | Design |
