@@ -56,3 +56,9 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium |[Solution](https://leetcode.com/problems/lru-cache/solution/) | [Java](0146-LRU-Cache/src/LRUCache.java) | Design |
+
+## String
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Easy |[Solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [Java](0804-Unique-Morse-Code-Words/src/Solution.java) | String |
+
