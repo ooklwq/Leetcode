@@ -1,4 +1,4 @@
-import java.util.TreeSet;
+import java.util.HashSet;
 
 class Solution {
 
@@ -9,7 +9,7 @@ class Solution {
                 "....","..",".---","-.-",".-..","--","-.",
                 "---",".--.","--.-",".-.","...","-","..-","...-",
                 ".--","-..-","-.--","--.."};
-        TreeSet<String> set = new TreeSet<>();
+        HashSet<String> set = new HashSet<>();
         for (String word : words) {
             StringBuilder res = new StringBuilder();
             for (int i = 0; i < word.length(); i++) {
