@@ -54,6 +54,7 @@
 ## Bit Manipulation
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Easy |[Solution](https://leetcode.com/problems/majority-element/solution/) | [Java](0169-Majority-Element/src/Solution.java) | Bit Manipulation, Array, Divide and Conquer |
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) | Medium |[Solution](https://leetcode.com/problems/bitwise-and-of-numbers-range/solution/) | [Java](0201-Bitwise-AND-of-Numbers-Range/src/Solution.java) | Bit Manipulation |
 
 ## Design
