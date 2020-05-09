@@ -2,6 +2,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy |[Solution](https://leetcode.com/problems/two-sum/solution/) | [Java](0001-Two-Sum/src/Solution1.java) | Array, HashTable |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |[Solution](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Java](0448-Find-All-Numbers-Disappeared-in-an-Array/src/Solution1.java) | Array, HashTable |
 
 ## Stack
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
