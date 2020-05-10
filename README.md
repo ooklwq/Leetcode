@@ -41,6 +41,11 @@
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | Easy |[Solution](https://leetcode.com/problems/intersection-of-two-arrays-ii/solution/) | [Java](0350-Intersection-of-Two-Arrays-II/src/Solution.java) | HashTable, Two Pointers, Binary Search, Sort, Map |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Medium |[Solution](https://leetcode.com/problems/subarray-sum-equals-k/solution/) | [Java](0560-Subarray-Sum-Equals-K/src/Solution1.java) | HashTable |
 
+## Heap
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium |[Solution](https://leetcode.com/problems/top-k-frequent-elements/solution/) | [Java](0347-Top-K-Frequent-Elements/src/Solution.java) | Heap, HashTable |
+
 ## Two Pointers
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
