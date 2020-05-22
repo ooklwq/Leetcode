@@ -43,6 +43,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy |[Solution](https://leetcode.com/problems/valid-anagram/solution/) | [Java](0242-Valid-Anagram/src/Solution2.java) | HashTable, Sort |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Easy |[Solution](https://leetcode.com/problems/intersection-of-two-arrays/solution/) | [Java](0349-Intersection-of-Two-Arrays/src/Solution.java) | HashTable, Two Pointers, Binary Search, Sort, Set |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | Easy |[Solution](https://leetcode.com/problems/intersection-of-two-arrays-ii/solution/) | [Java](0350-Intersection-of-Two-Arrays-II/src/Solution.java) | HashTable, Two Pointers, Binary Search, Sort, Map |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy |[Solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) | [Java](0387-First-Unique-Character-in-a-String/src/Solution1.java) | HashTable, String |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Medium |[Solution](https://leetcode.com/problems/subarray-sum-equals-k/solution/) | [Java](0560-Subarray-Sum-Equals-K/src/Solution1.java) | HashTable |
 
 ## Heap
