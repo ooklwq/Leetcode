@@ -82,3 +82,7 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Easy |[Solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [Java](0804-Unique-Morse-Code-Words/src/Solution.java) | String |
 
+## Dynamic Programming
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 303 | [Range Sum Query -Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-immutable/solution/) | [Java](0303-Range-Sum-Query-Immutable/src/NumArray.java) | Dynamic Programming |
