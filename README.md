@@ -86,3 +86,8 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 303 | [Range Sum Query -Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-immutable/solution/) | [Java](0303-Range-Sum-Query-Immutable/src/NumArray.java) | Dynamic Programming |
+
+## Segment Tree
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 307 | [Range Sum Query -Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-mutable/solution/) | [Java](0307-Range-Sum-Query-Mutable/src/NumArray.java) | Segment Tree, Binary Indexed Tree |
