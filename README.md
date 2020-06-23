@@ -45,6 +45,7 @@
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | Easy |[Solution](https://leetcode.com/problems/intersection-of-two-arrays-ii/solution/) | [Java](0350-Intersection-of-Two-Arrays-II/src/Solution.java) | HashTable, Two Pointers, Binary Search, Sort, Map |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy |[Solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) | [Java](0387-First-Unique-Character-in-a-String/src/Solution1.java) | HashTable, String |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Medium |[Solution](https://leetcode.com/problems/subarray-sum-equals-k/solution/) | [Java](0560-Subarray-Sum-Equals-K/src/Solution1.java) | HashTable |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | Easy |[Solution](https://leetcode.com/problems/set-mismatch/solution/) | [Java](0645-Set-mismatch/src/Solution.java) | HashTable, Math |
 
 ## Heap
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
