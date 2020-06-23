@@ -66,6 +66,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |[Solution](https://leetcode.com/problems/climbing-stairs/solution/) | [Java](0070-Climbing-Stairs/src/Solution.java) | Dynamic Programming |
 
 ## Bit Manipulation
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
