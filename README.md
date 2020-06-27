@@ -99,3 +99,4 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 208 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefiex-tree/description/) | Medium |[Solution](https://leetcode.com/problems/implement-trie-prefix-tree/solution/) | [Java](0208-Implement-Trie-Prefix-Tree/src/Trie.java) | Trie, Design |
 | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | Medium |[Solution](https://leetcode.com/problems/add-and-search-word-data-structure-design/solution/) | [Java](0211-Add-and-Search-Word-Data-structure-design/src/WordDictionary.java) | Trie, Design, Backtracking |
+| 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | Medium |[Solution](https://leetcode.com/problems/map-sum-pairs/solution/) | [Java](0677-Map-Sum-Pairs/src/MapSum.java) | Trie |
