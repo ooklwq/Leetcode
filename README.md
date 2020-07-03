@@ -104,5 +104,6 @@
 ## Union Find
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | Medium |[Solution](https://leetcode.com/problems/number-of-islands/solution/) | [Java](0200-Number-of-Islands/src/Solution.java) | Union Find, Depth-first Search, Breath-first Search |
 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/description/) | Medium |[Solution](https://leetcode.com/problems/friend-circles/solution/) | [Java](0547-Friend-Circles/src/Solution6.java) | Union Find, Depth-first Search |
 
