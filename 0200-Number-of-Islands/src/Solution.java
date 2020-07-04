@@ -1,4 +1,5 @@
 public class Solution {
+    //UF
     private class UnionFind{
         int count;
         int[] parent;
@@ -67,7 +68,10 @@ public class Solution {
     public int numIslands(char[][] grid) {
         if (grid == null || grid.length == 0 || grid[0].length ==0) return 0;
         //左右上下
-        int[][] directions = {{-1,0},{1,0},{0,-1},{0,1}};
+//        int[][] directions = {{-1,0},{1,0},{0,-1},{0,1}};
+        //只需要判断两个方向，右下或者左上
+        //上、左
+        int[][] directions = {{-1,0},{0,-1}};
         UnionFind unionFind = new UnionFind(grid);
         int rows = grid.length;
         int cols = grid[0].length;
