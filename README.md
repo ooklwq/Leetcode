@@ -87,6 +87,17 @@
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |[Solution](https://leetcode.com/problems/climbing-stairs/solution/) | [Java](0070-Climbing-Stairs/src/Solution.java) | Dynamic Programming |
 
+## String
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 017 | [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combination-of-a-phone-number/description/) | Medium |[Solution](https://leetcode.com/problems/letter-combination-of-a-phone-number/solution/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/src/Solution.java) | String, Backtracking |
+
+## Backtracking
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 017 | [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combination-of-a-phone-number/description/) | Medium |[Solution](https://leetcode.com/problems/letter-combination-of-a-phone-number/solution/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/src/Solution.java) | String, Backtracking |
+| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |[Solution](https://leetcode.com/problems/permutations/solution/) | [Java](0046-Permutations/src/Solution.java) | Backtracking |
+
 ## Bit Manipulation
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
