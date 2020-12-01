@@ -97,6 +97,7 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 017 | [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combination-of-a-phone-number/description/) | Medium |[Solution](https://leetcode.com/problems/letter-combination-of-a-phone-number/solution/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/src/Solution.java) | String, Backtracking |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |[Solution](https://leetcode.com/problems/permutations/solution/) | [Java](0046-Permutations/src/Solution.java) | Backtracking |
+| 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | Medium |[Solution](https://leetcode.com/problems/combinations/solution/) | [Java](0077-Combinations/src/Solution.java) | Backtracking |
 
 ## Bit Manipulation
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
