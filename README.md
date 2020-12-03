@@ -3,7 +3,7 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy |[Solution](https://leetcode.com/problems/two-sum/solution/) | [Java](0001-Two-Sum/src/Solution1.java) | Array, HashTable |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Easy |[Solution](https://leetcode.com/problems/pascals-triangle/solution/) | [Java](0118-Pascal's-Triangle/src/Solution.java) | Array |
-
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | Easy |[Solution](https://leetcode.com/problems/pascals-triangle-ii/solution/) | [Java](0119-Pascal's-Triangle-II/src/Solution.java) | Array |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |[Solution](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Java](0448-Find-All-Numbers-Disappeared-in-an-Array/src/Solution1.java) | Array, HashTable |
 
 ## Stack
