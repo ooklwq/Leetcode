@@ -91,6 +91,7 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |[Solution](https://leetcode.com/problems/climbing-stairs/solution/) | [Java](0070-Climbing-Stairs/src/Solution.java) | Dynamic Programming |
+| 303 | [Range Sum Query -Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-immutable/solution/) | [Java](0303-Range-Sum-Query-Immutable/src/NumArray.java) | Dynamic Programming |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | Easy |[Solution](https://leetcode.com/problems/fibonacci-number/solution/) | [Java](0509-Fibonacci-Number/src/Solution.java) | Dynamic Programming, Array |
 
 ## String
@@ -108,7 +109,6 @@
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | Medium |[Solution](https://leetcode.com/problems/combinations/solution/) | [Java](0077-Combinations/src/Solution.java) | Backtracking |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium |[Solution](https://leetcode.com/problems/word-search/solution/) | [Java](0079-Word-Search/src/Solution.java) | Backtracking, Array |
 
-
 ## Bit Manipulation
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
@@ -124,11 +124,6 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Easy |[Solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [Java](0804-Unique-Morse-Code-Words/src/Solution.java) | String |
-
-## Dynamic Programming
-| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
-| --- | --- | :---: | :---: | :---: | :---: | 
-| 303 | [Range Sum Query -Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-immutable/solution/) | [Java](0303-Range-Sum-Query-Immutable/src/NumArray.java) | Dynamic Programming |
 
 ## Segment Tree
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
@@ -147,4 +142,9 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | Medium |[Solution](https://leetcode.com/problems/number-of-islands/solution/) | [Java](0200-Number-of-Islands/src/Solution.java) | Union Find, Depth-first Search, Breath-first Search |
 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/description/) | Medium |[Solution](https://leetcode.com/problems/friend-circles/solution/) | [Java](0547-Friend-Circles/src/Solution6.java) | Union Find, Depth-first Search |
+
+## Math
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x, n)/src/Solution.java) | Math, Binary Search |
 
