@@ -92,6 +92,8 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |[Solution](https://leetcode.com/problems/climbing-stairs/solution/) | [Java](0070-Climbing-Stairs/src/Solution.java) | Dynamic Programming |
+| 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | Medium |[Solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | [Java](0095-Unique-Binary-Search-Trees-II/src/Solution.java) | Dynamic Programming, Tree |
+| 096 | [Unique Binary Search Trees ](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium |[Solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | [Java](0096-Unique-Binary-Search-Trees/src/Solution.java) | Dynamic Programming, Tree |
 | 303 | [Range Sum Query -Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-immutable/solution/) | [Java](0303-Range-Sum-Query-Immutable/src/NumArray.java) | Dynamic Programming |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | Easy |[Solution](https://leetcode.com/problems/fibonacci-number/solution/) | [Java](0509-Fibonacci-Number/src/Solution.java) | Dynamic Programming, Array |
 
