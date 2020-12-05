@@ -45,7 +45,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solution/) | [Java](0144-Binary-Tree-Preorder-Traversal/src/Solution.java) | Tree, Stack |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Hard |[Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [Java](0145-Binary-Tree-Postorder-Traversal/src/Solution.java) | Tree, Stack |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |[Solution](https://leetcode.com/problems/invert-binary-tree/solution/) | [Java](0226-Invert-Binary-Tree/src/Solution.java) | Tree |
-| 226 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium |[Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/) | [Java](0230-Kth-Smallest-Element-in-a-BST/src/Solution.java) | Binary Search, Tree |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium |[Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/) | [Java](0230-Kth-Smallest-Element-in-a-BST/src/Solution.java) | Binary Search, Tree |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Easy |[Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/) | [Java](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/src/Solution.java) | Tree |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Medium |[Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/) | [Java](0236-Lowest-Common-Ancestor-of-a-Binary-Tree/src/Solution.java) | Tree |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | Hard |[Solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solution/) | [Java](0297-Serialize-and-Deserialize-Binary-Tree/src/Codec.java) | Tree, Design |
@@ -155,3 +155,10 @@
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x, n)/src/Solution.java) | Math, Binary Search |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
 
+## Binary Search
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x, n)/src/Solution.java) | Math, Binary Search |
+| 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium |[Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/) | [Java](0230-Kth-Smallest-Element-in-a-BST/src/Solution.java) | Binary Search, Tree |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | Medium |[Solution](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/) | [Java](0240-Search-a-2D-Matrix-II/src/Solution.java) | Binary Search, Divide and Conquer |
