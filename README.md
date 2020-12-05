@@ -160,5 +160,6 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x, n)/src/Solution.java) | Math, Binary Search |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
+| 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium |[Solution](https://leetcode.com/problems/search-a-2d-matrix/solution/) | [Java](0074-Search-a-2D-Matrix/src/Solution.java) | Array, Binary Search |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium |[Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/) | [Java](0230-Kth-Smallest-Element-in-a-BST/src/Solution.java) | Binary Search, Tree |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | Medium |[Solution](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/) | [Java](0240-Search-a-2D-Matrix-II/src/Solution.java) | Binary Search, Divide and Conquer |
