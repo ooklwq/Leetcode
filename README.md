@@ -5,6 +5,7 @@
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Easy |[Solution](https://leetcode.com/problems/pascals-triangle/solution/) | [Java](0118-Pascal's-Triangle/src/Solution.java) | Array |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | Easy |[Solution](https://leetcode.com/problems/pascals-triangle-ii/solution/) | [Java](0119-Pascal's-Triangle-II/src/Solution.java) | Array |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |[Solution](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Java](0448-Find-All-Numbers-Disappeared-in-an-Array/src/Solution1.java) | Array, HashTable |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium |[Solution](https://leetcode.com/problems/sort-an-array/solution/) | [Java](0912-Sort-an-Array/src/Solution1.java) | Array, Sort |
 
 ## Stack
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
