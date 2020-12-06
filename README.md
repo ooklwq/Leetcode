@@ -109,6 +109,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 017 | [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combination-of-a-phone-number/description/) | Medium |[Solution](https://leetcode.com/problems/letter-combination-of-a-phone-number/solution/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/src/Solution.java) | String, Backtracking |
+| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | Hard |[Solution](https://leetcode.com/problems/sudoku-solver/solution/) | [Java](0037-Sudoku-Solver/src/Solution.java) | Backtracking, HashTable |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |[Solution](https://leetcode.com/problems/permutations/solution/) | [Java](0046-Permutations/src/Solution.java) | Backtracking |
 | 051 | [N Queens](https://leetcode.com/problems/n-queens/description/) | Hard |[Solution](https://leetcode.com/problems/n-queens/solution/) | [Java](0051-N-Queens/src/Solution.java) | Backtracking |
 | 052 | [N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Hard |[Solution](https://leetcode.com/problems/n-queens-ii/solution/) | [Java](0052-N-Queens-II/src/Solution.java) | Backtracking |
