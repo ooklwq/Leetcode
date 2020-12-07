@@ -4,6 +4,8 @@ import java.util.List;
 class Solution {
     private List<List<Integer>> res;
 
+    //Time Complexity: (n!)
+    //Space Complexity: O(n)
     public List<List<Integer>> permute(int[] nums) {
         res = new ArrayList<>();
         if (nums.length == 0) return res;

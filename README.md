@@ -113,10 +113,13 @@
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium |[Solution](https://leetcode.com/problems/generate-parentheses/solution/) | [Java](0022-Generate-Parentheses/src/Solution.java) | String, Backtracking |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | Hard |[Solution](https://leetcode.com/problems/sudoku-solver/solution/) | [Java](0037-Sudoku-Solver/src/Solution.java) | Backtracking, HashTable |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |[Solution](https://leetcode.com/problems/permutations/solution/) | [Java](0046-Permutations/src/Solution.java) | Backtracking |
+| 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium |[Solution](https://leetcode.com/problems/permutations-ii/solution/) | [Java](0047-Permutations-II~~__~~/src/Solution.java) | Backtracking |
 | 051 | [N Queens](https://leetcode.com/problems/n-queens/description/) | Hard |[Solution](https://leetcode.com/problems/n-queens/solution/) | [Java](0051-N-Queens/src/Solution.java) | Backtracking |
 | 052 | [N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Hard |[Solution](https://leetcode.com/problems/n-queens-ii/solution/) | [Java](0052-N-Queens-II/src/Solution.java) | Backtracking |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | Medium |[Solution](https://leetcode.com/problems/combinations/solution/) | [Java](0077-Combinations/src/Solution.java) | Backtracking |
+| 078 | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium |[Solution](https://leetcode.com/problems/subsets/solution/) | [Java](0078-Subsets/src/Solution.java) | Backtracking, Array, Bit Manipulation |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium |[Solution](https://leetcode.com/problems/word-search/solution/) | [Java](0079-Word-Search/src/Solution.java) | Backtracking, Array |
+| 090 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | Medium |[Solution](https://leetcode.com/problems/subsets-ii/solution/) | [Java](0090-Subsets-II/src/Solution.java) | Backtracking, Array |
 
 ## Bit Manipulation
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
