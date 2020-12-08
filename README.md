@@ -99,6 +99,7 @@
 | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | Medium |[Solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | [Java](0095-Unique-Binary-Search-Trees-II/src/Solution.java) | Dynamic Programming, Tree |
 | 096 | [Unique Binary Search Trees ](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium |[Solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | [Java](0096-Unique-Binary-Search-Trees/src/Solution.java) | Dynamic Programming, Tree |
 | 303 | [Range Sum Query -Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-immutable/solution/) | [Java](0303-Range-Sum-Query-Immutable/src/NumArray.java) | Dynamic Programming |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | Medium |[Solution](https://leetcode.com/problems/integer-break/solution/) | [Java](0343-Intege-Break/src/Solution.java) | Dynamic Programming, Math |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | Easy |[Solution](https://leetcode.com/problems/fibonacci-number/solution/) | [Java](0509-Fibonacci-Number/src/Solution.java) | Dynamic Programming, Array |
 
 ## String
@@ -113,7 +114,7 @@
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium |[Solution](https://leetcode.com/problems/generate-parentheses/solution/) | [Java](0022-Generate-Parentheses/src/Solution.java) | String, Backtracking |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | Hard |[Solution](https://leetcode.com/problems/sudoku-solver/solution/) | [Java](0037-Sudoku-Solver/src/Solution.java) | Backtracking, HashTable |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |[Solution](https://leetcode.com/problems/permutations/solution/) | [Java](0046-Permutations/src/Solution.java) | Backtracking |
-| 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium |[Solution](https://leetcode.com/problems/permutations-ii/solution/) | [Java](0047-Permutations-II~~__~~/src/Solution.java) | Backtracking |
+| 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium |[Solution](https://leetcode.com/problems/permutations-ii/solution/) | [Java](0047-Permutations-II/src/Solution.java) | Backtracking |
 | 051 | [N Queens](https://leetcode.com/problems/n-queens/description/) | Hard |[Solution](https://leetcode.com/problems/n-queens/solution/) | [Java](0051-N-Queens/src/Solution.java) | Backtracking |
 | 052 | [N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Hard |[Solution](https://leetcode.com/problems/n-queens-ii/solution/) | [Java](0052-N-Queens-II/src/Solution.java) | Backtracking |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | Medium |[Solution](https://leetcode.com/problems/combinations/solution/) | [Java](0077-Combinations/src/Solution.java) | Backtracking |
@@ -158,13 +159,13 @@
 ## Math
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
-| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x, n)/src/Solution.java) | Math, Binary Search |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x,n)/src/Solution.java) | Math, Binary Search |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
 
 ## Binary Search
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
-| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x, n)/src/Solution.java) | Math, Binary Search |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x,n)/src/Solution.java) | Math, Binary Search |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
 | 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium |[Solution](https://leetcode.com/problems/search-a-2d-matrix/solution/) | [Java](0074-Search-a-2D-Matrix/src/Solution.java) | Array, Binary Search |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium |[Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/) | [Java](0230-Kth-Smallest-Element-in-a-BST/src/Solution.java) | Binary Search, Tree |
