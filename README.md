@@ -102,6 +102,12 @@
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | Medium |[Solution](https://leetcode.com/problems/integer-break/solution/) | [Java](0343-Intege-Break/src/Solution.java) | Dynamic Programming, Math |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | Easy |[Solution](https://leetcode.com/problems/fibonacci-number/solution/) | [Java](0509-Fibonacci-Number/src/Solution.java) | Dynamic Programming, Array |
 
+## Greedy
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Easy |[Solution](https://leetcode.com/problems/assign-cookies/solution/) | [Java](0455-Assign-Cookies/src/Solution.java) | Greedy |
+
+
 ## String
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
