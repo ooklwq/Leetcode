@@ -110,6 +110,7 @@
 ## Greedy
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 055 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium |[Solution](https://leetcode.com/problems/jump-game/solution/) | [Java](0055-Jump-Game/src/Solution.java) | Greedy, Array |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Easy |[Solution](https://leetcode.com/problems/assign-cookies/solution/) | [Java](0455-Assign-Cookies/src/Solution.java) | Greedy |
 
 ## String
