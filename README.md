@@ -103,13 +103,14 @@
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Medium |[Solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) | [Java](0300-Longest-Increasing-Subsequence/src/Solution.java) | Dynamic Programming, Binary Search |
 | 303 | [Range Sum Query -Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |[Solution](https://leetcode.com/problems/range-sum-query-immutable/solution/) | [Java](0303-Range-Sum-Query-Immutable/src/NumArray.java) | Dynamic Programming |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | Medium |[Solution](https://leetcode.com/problems/integer-break/solution/) | [Java](0343-Integer-Break/src/Solution.java) | Dynamic Programming, Math |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | Medium |[Solution](https://leetcode.com/problems/partition-equal-subset-sum/solution/) | [Java](0416-Partition-Equal-Subset-Sum/src/Solution.java) | Dynamic Programming |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | Easy |[Solution](https://leetcode.com/problems/fibonacci-number/solution/) | [Java](0509-Fibonacci-Number/src/Solution.java) | Dynamic Programming, Array |
+| 1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | Medium |[Solution](https://leetcode.com/problems/longest-common-subsequence/solution/) | [Java](1143-Longest-Common-Subsequence/src/Solution.java) | Dynamic Programming |
 
 ## Greedy
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Easy |[Solution](https://leetcode.com/problems/assign-cookies/solution/) | [Java](0455-Assign-Cookies/src/Solution.java) | Greedy |
-
 
 ## String
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
