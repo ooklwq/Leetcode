@@ -3,7 +3,7 @@ import java.util.Arrays;
 class Solution {
 
     //Time Complexity: O(n*C)
-    //Space Complexity: O(c)
+    //Space Complexity: O(C)
     public int coinChange(int[] coins, int amount) {
         if (coins == null || coins.length == 0 || amount <= 0) {
             return 0;
