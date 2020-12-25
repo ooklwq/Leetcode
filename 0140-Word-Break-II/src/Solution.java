@@ -26,6 +26,7 @@ class Solution {
             List<String> partRes = null;
             if (set.contains(sub)) {
                 partRes = wordBreak(s.substring(i), set, memo);
+                //当前字符串就是字典中的一个词
                 if (partRes == null) {
                     res.add(sub);
                 } else {
@@ -33,9 +34,25 @@ class Solution {
                         res.add(sub + " " + str);
                     }
                 }
+//                System.out.println(sub);
+//                System.out.println(partRes == null);
             }
         }
         memo.put(s, res);
         return res;
+    }
+
+    public static void main(String[] args) {
+        String s = "catsandog";
+        List<String> list = new LinkedList<>();
+        list.add("cats");
+        list.add("dog");
+        list.add("sand");
+        list.add("and");
+        list.add("cat");
+        List<String> res = new Solution().wordBreak(s, list);
+        for (String str: res) {
+            System.out.println(str);
+        }
     }
 }
