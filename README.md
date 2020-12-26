@@ -95,6 +95,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
+| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | Medium |[Solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [Java](0064-Minimum-Path-Sum/src/Solution.java) | Dynamic Programming, Array |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |[Solution](https://leetcode.com/problems/climbing-stairs/solution/) | [Java](0070-Climbing-Stairs/src/Solution.java) | Dynamic Programming |
 | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | Medium |[Solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | [Java](0095-Unique-Binary-Search-Trees-II/src/Solution.java) | Dynamic Programming, Tree |
 | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium |[Solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | [Java](0096-Unique-Binary-Search-Trees/src/Solution.java) | Dynamic Programming, Tree |
