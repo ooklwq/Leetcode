@@ -113,6 +113,7 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | Easy |[Solution](https://leetcode.com/problems/fibonacci-number/solution/) | [Java](0509-Fibonacci-Number/src/Solution.java) | Dynamic Programming, Array |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | Medium |[Solution](https://leetcode.com/problems/coin-change-2/solution/) | [Java](0518-Coin-Change-2/src/Solution.java) | Dynamic Programming |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | Medium |[Solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [Java](0583-Delete-Operation-for-Two-Strings/src/Solution.java) | Dynamic Programming, String |
+| 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | Medium |[Solution](https://leetcode.com/problems/2-keys-keyboard/solution/) | [Java](0650-2-Keys-Keyboard/src/Solution.java) | Dynamic Programming |
 | 1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | Medium |[Solution](https://leetcode.com/problems/longest-common-subsequence/solution/) | [Java](1143-Longest-Common-Subsequence/src/Solution.java) | Dynamic Programming |
 
 ## Greedy
