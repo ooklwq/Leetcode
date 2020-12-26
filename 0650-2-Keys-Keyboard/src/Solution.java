@@ -1,7 +1,7 @@
 class Solution {
 
-    //Time Complexity: O(n^2)
-    //Space Complexity: O(n)
+    //Time Complexity: O(n*k)
+    //Space Complexity: O(k)
     public int minSteps(int n) {
         if (n == 1) {
             return 0;
