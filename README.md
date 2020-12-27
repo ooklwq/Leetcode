@@ -94,6 +94,7 @@
 ## Dynamic Programming
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Medium |[Solution](https://leetcode.com/problems/longest-palindromic-substring/solution/) | [Java](0005-Longest-Palindromic-Substring/src/Solution.java) | Dynamic Programming, String |
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium |[Solution](https://leetcode.com/problems/unique-paths/solution/) | [Java](0062-Unique-Paths/src/Solution.java) | Dynamic Programming, Array |
 | 063 | [Unique Paths](https://leetcode.com/problems/unique-paths-ii/description/) | Medium |[Solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [Java](0063-Unique-Paths-II/src/Solution.java) | Dynamic Programming, Array |
