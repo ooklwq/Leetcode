@@ -96,6 +96,7 @@
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |[Solution](https://leetcode.com/problems/maximum-subarray/solution/) | [Java](0053-Maximum-Subarray/src/Solution.java) | Dynamic Programming, Array, Divide and Conquer |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium |[Solution](https://leetcode.com/problems/unique-paths/solution/) | [Java](0062-Unique-Paths/src/Solution.java) | Dynamic Programming, Array |
+| 063 | [Unique Paths](https://leetcode.com/problems/unique-paths-ii/description/) | Medium |[Solution](https://leetcode.com/problems/unique-paths-ii/solution/) | [Java](0063-Unique-Paths-II/src/Solution.java) | Dynamic Programming, Array |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | Medium |[Solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [Java](0064-Minimum-Path-Sum/src/Solution.java) | Dynamic Programming, Array |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |[Solution](https://leetcode.com/problems/climbing-stairs/solution/) | [Java](0070-Climbing-Stairs/src/Solution.java) | Dynamic Programming |
 | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Hard |[Solution](https://leetcode.com/problems/edit-distance/solution/) | [Java](0072-Edit-Distance/src/Solution.java) | Dynamic Programming, String |
