@@ -6,7 +6,7 @@ class Solution {
     //Time Complexity: O(n)
     //Space Complexity: O(k)
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        if (nums == null || nums.length == 0) {
+        if (nums == null || nums.length == 0 || k <= 0) {
             return false;
         }
         Set<Integer> set = new HashSet<>();
