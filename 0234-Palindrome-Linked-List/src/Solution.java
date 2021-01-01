@@ -3,7 +3,7 @@ class Solution {
     //Time Complexity: O(n)
     //Space Complexity: O(n)
     public boolean isPalindrome(ListNode head) {
-        if (head == null) {
+        if (head == null || head.next == null) {
             return true;
         }
         ListNode cur = head;

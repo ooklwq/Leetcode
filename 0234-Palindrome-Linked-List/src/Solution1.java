@@ -1,26 +1,26 @@
+import java.util.Stack;
+
 class Solution1 {
 
     //Time Complexity: O(n)
-    //Space Complexity: O(1)
+    //Space Complexity: O(n)
     public boolean isPalindrome(ListNode head) {
-        if (head == null) {
+        if (head == null || head.next == null) {
             return true;
         }
+        Stack<ListNode> stack = new Stack<>();
         ListNode cur = head;
-        int num = 0;
         while (cur != null) {
-            num ++;
+            stack.push(cur);
             cur = cur.next;
         }
-        int[] arr = new int[num];
         cur = head;
-        for (int i = 0; i < num; i++, cur = cur.next) {
-            arr[i] = cur.val;
-        }
-        for (int i = 0; i < num / 2; i++) {
-            if (arr[i] != arr[num - 1 - i]) {
+        while (!stack.isEmpty()) {
+            ListNode temp = stack.pop();
+            if (temp.val != cur.val) {
                 return false;
             }
+            cur = cur.next;
         }
         return true;
     }
