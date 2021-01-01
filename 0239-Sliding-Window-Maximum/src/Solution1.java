@@ -6,29 +6,26 @@ class Solution1 {
     //Time Complexity: O(n)
     //Space Complexity: O(k)
     public int[] maxSlidingWindow(int[] nums, int k) {
-        if (nums == null || k <= 0) {
+        if (nums == null || nums.length == 0 || k <= 0) {
             return new int[0];
         }
         int n = nums.length;
-        int[] r = new int[n-k+1];
-        int ri = 0;
-        // store index
-        Deque<Integer> q = new ArrayDeque<>();
-        for (int i = 0; i < nums.length; i++) {
-            // remove numbers out of range k
-            while (!q.isEmpty() && q.peek() < i - k + 1) {
-                q.poll();
+        int[] res = new int[n - k + 1];
+        Deque<Integer> max = new ArrayDeque<>();
+        for (int i = 0; i < n; i++) {
+            if (i >= k) {
+                if (max.peekFirst() == nums[i - k]) {
+                    max.pollFirst();
+                }
             }
-            // remove smaller numbers in k range as they are useless
-            while (!q.isEmpty() && nums[q.peekLast()] < nums[i]) {
-                q.pollLast();
+            while (!max.isEmpty() && max.peekLast() < nums[i]) {
+                max.pollLast();
             }
-            // q contains index... r contains content
-            q.offer(i);
-            if (i >= k - 1) {
-                r[ri++] = nums[q.peek()];
+            max.offerLast(nums[i]);
+            if (i >= k - 1){
+                res[i - k + 1] = max.peekFirst();
             }
         }
-        return r;
+        return res;
     }
 }
