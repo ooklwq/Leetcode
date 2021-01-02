@@ -1,5 +1,3 @@
-import java.util.LinkedList;
-
 class MyLinkedList {
     private ListNode dummyHead;
     private int size;
