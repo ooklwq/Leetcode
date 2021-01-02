@@ -18,6 +18,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium |[Solution](https://leetcode.com/problems/add-two-numbers/solution/) | [Java](0002-Add-Two-Numbers/src/Solution.java) | LinkedList, Math |
+| 019 | [Remove Nth Node From End of List](https://leetcode.com/remove-nth-node-from-end-of-list/description/) | Medium |[Solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) | [Java](0019-Remove-Nth-Node-From-End-of-List/src/Solution.java) | LinkedList, Two Pointers |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy |[Solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) | [Java](0021-Merge-Two-Sorted-Lists/src/Solution.java) | LinkedList, Math |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | Medium |[Solution](https://leetcode.com/problems/swap-nodes-in-pairs/solution/) | [Java](0024-Swap-Nodes-in-Pairs/src/Solution.java) | LinkedList |
 | 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | Medium |[Solution](https://leetcode.com/problems/reverse-linked-list-ii/solution/) | [Java](0092-Reverse-Linked-List-II/src/Solution.java) | LinkedList |
