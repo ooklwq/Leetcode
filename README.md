@@ -29,6 +29,7 @@
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/palindrome-linked-list/solution/) | [Java](0234-Palindrome-Linked-List/src/Solution.java) | Two Pointers, Linked List |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [Java](0237-Delete-Node-in-a-Linked-List/src/Solution.java) | LinkedList |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | Medium |[Solution](https://leetcode.com/problems/odd-even-linked-list/solution/) | [Java](0328-Odd-Even-Linked-List/src/Solution.java) | LinkedList |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | Medium |[Solution](https://leetcode.com/problems/design-linked-list/solution/) | [Java](0707-Design-Linked-List/src/MyLinkedList.java) | LinkedList, Design |
 
 ## Tree
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
