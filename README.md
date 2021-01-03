@@ -2,6 +2,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy |[Solution](https://leetcode.com/problems/two-sum/solution/) | [Java](0001-Two-Sum/src/Solution1.java) | Array, HashTable |
+| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy |[Solution](https://leetcode.com/problems/remove-element/solution/) | [Java](0027-Remove-Element/src/Solution.java) | Array, Two Pointers |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Easy |[Solution](https://leetcode.com/problems/pascals-triangle/solution/) | [Java](0118-Pascal's-Triangle/src/Solution.java) | Array |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | Easy |[Solution](https://leetcode.com/problems/pascals-triangle-ii/solution/) | [Java](0119-Pascal's-Triangle-II/src/Solution.java) | Array |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | Hard |[Solution](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](0128-Longest-Consecutive-Sequence/src/Solution.java) | Union Find, Array |
