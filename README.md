@@ -7,7 +7,8 @@
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | Hard |[Solution](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](0128-Longest-Consecutive-Sequence/src/Solution.java) | Union Find, Array |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |[Solution](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Java](0448-Find-All-Numbers-Disappeared-in-an-Array/src/Solution1.java) | Array, HashTable |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | Easy |[Solution](https://leetcode.com/problems/max-consecutive-ones/solution/) | [Java](0485-Max-Consecutive-Ones/src/Solution.java) | Array |
-| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium |[Solution](https://leetcode.com/problems/sort-an-array/solution/) | [Java](0912-Sort-an-Array/src/Solution1.java) | Array, Sort |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium |[Solution](https://leetcode.com/problems/sort-an-array/solution/) | [Java](0912-Sort-an-Array/src/Solution.java) | Array, Sort |
+| 1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) | Easy |[Solution](https://leetcode.com/problems/duplicate-zeros/solution/) | [Java](0912-Sort-an-Array/src/Solution.java) | Array |
 | 1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | Easy |[Solution](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solution/) | [Java](1295-Find-Numbers-with-Even-Number-of-Digits/src/Solution.java) | Array |
 
 ## Stack
