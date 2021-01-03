@@ -108,6 +108,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |[Solution](https://leetcode.com/problems/move-zeros/solution/) | [Java](0283-Move-Zeroes/src/Solution1.java) | Two Pointers, Array |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |[Solution](https://leetcode.com/problems/reverse-string/solution/) | [Java](0344-Reverse-String/src/Solution.java) | Two Pointers, String |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | Easy |[Solution](https://leetcode.com/problems/middle-of-the-linked-list/solution/) | [Java](0876-Middle-of-the-Linked-List/src/Solution.java) | Two Pointers, LinkedList |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | Easy |[Solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | [Java](0977-Squares-of-a-Sorted-Array/src/Solution.java) | Two Pointers, Array |
 
 ## Dynamic Programming
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
