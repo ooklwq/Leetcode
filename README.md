@@ -13,6 +13,7 @@
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium |[Solution](https://leetcode.com/problems/sort-an-array/solution/) | [Java](0912-Sort-an-Array/src/Solution.java) | Array, Sort |
 | 1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) | Easy |[Solution](https://leetcode.com/problems/duplicate-zeros/solution/) | [Java](0912-Sort-an-Array/src/Solution.java) | Array |
 | 1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | Easy |[Solution](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solution/) | [Java](1295-Find-Numbers-with-Even-Number-of-Digits/src/Solution.java) | Array |
+| 1346| [Check if N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | Easy |[Solution](https://leetcode.com/problems/check-if-n-and-its-double-exist/solution/) | [Java](1346-Check-If-N-and-Its-Double-Exist/src/Solution.java) | Array |
 
 ## Stack
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
