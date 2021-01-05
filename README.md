@@ -221,9 +221,11 @@
 ## Binary Search
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium |[Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [Java](0033-Search-in-Rotated-Sorted-Array/src/Solution.java) | Array, Binary Search |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x,n)/src/Solution.java) | Math, Binary Search |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
 | 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium |[Solution](https://leetcode.com/problems/search-a-2d-matrix/solution/) | [Java](0074-Search-a-2D-Matrix/src/Solution.java) | Array, Binary Search |
+| 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | Medium |[Solution](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solution/) | [Java](0081-Search-in-Rotated-Sorted-Array-II/src/Solution.java) | Array, Binary Search |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium |[Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/) | [Java](0230-Kth-Smallest-Element-in-a-BST/src/Solution.java) | Binary Search, Tree |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | Medium |[Solution](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/) | [Java](0240-Search-a-2D-Matrix-II/src/Solution.java) | Binary Search, Divide and Conquer |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Easy |[Solution](https://leetcode.com/problems/guess-number-higher-or-lower/solution/) | [Java](0374-Guess-Number-Higher-or-Lower/src/Solution.java) | Binary Search |
