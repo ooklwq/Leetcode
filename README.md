@@ -223,6 +223,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium |[Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | [Java](0033-Search-in-Rotated-Sorted-Array/src/Solution.java) | Array, Binary Search |
+| 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Medium |[Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/) | [Java](0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/src/Solution.java) | Array, Binary Search |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy |[Solution](https://leetcode.com/problems/search-insert-position/solution/) | [Java](0035-Search-Insert-Position/src/Solution.java) | Array, Binary Search |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x,n)/src/Solution.java) | Math, Binary Search |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
