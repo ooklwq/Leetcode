@@ -11,6 +11,7 @@ class Solution {
 //            else left = mid + 1;
 //        }
 //        return right;
+        //return left - 1;
         while (true){
             int mid = left + (right - left)/2;
             if (mid > x/mid) right = mid - 1;
