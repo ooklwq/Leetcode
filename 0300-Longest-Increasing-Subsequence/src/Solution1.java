@@ -5,17 +5,17 @@ class Solution1 {
     public int lengthOfLIS(int[] nums) {
         int[] tails = new int[nums.length];
         int size = 0;
-        for (int x : nums) {
-            int i = 0, j = size;
-            while (i != j) {
-                int m = (i + j) / 2;
-                if (tails[m] < x)
-                    i = m + 1;
+        for (int num : nums) {
+            int left = 0, right = size;
+            while (left != right) {
+                int m = left + (right - left) / 2;
+                if (tails[m] < num)
+                    left = m + 1;
                 else
-                    j = m;
+                    right = m;
             }
-            tails[i] = x;
-            if (i == size) ++size;
+            tails[left] = num;
+            if (left == size) ++size;
         }
         return size;
     }
