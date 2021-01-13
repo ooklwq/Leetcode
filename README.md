@@ -218,8 +218,7 @@
 ## Math
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
-| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |[Solution](https://leetcode.com/problems/powx-n/solution/) | [Java](0050-Pow(x,n)/src/Solution.java) | Math, Binary Search |
-| 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |[Solution](https://leetcode.com/problems/sqrtx/solution/) | [Java](0069-Sqrt(x)/src/Solution.java) | Math, Binary Search |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Easy |[Solution](https://leetcode.com/problems/reverse-integer/solution/) | [Java](0007-Reverse-Integer/src/Solution.java) | Math |
 
 ## Binary Search
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
