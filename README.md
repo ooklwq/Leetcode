@@ -195,6 +195,7 @@
 ## String
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
+| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy |[Solution](https://leetcode.com/problems/longest-common-prefix/solution/) | [Java](0014-Longest-Common-Prefix/src/Solution.java) | String |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Easy |[Solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [Java](0804-Unique-Morse-Code-Words/src/Solution.java) | String |
 
 ## Segment Tree
@@ -219,6 +220,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Easy |[Solution](https://leetcode.com/problems/reverse-integer/solution/) | [Java](0007-Reverse-Integer/src/Solution.java) | Math |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | Easy |[Solution](https://leetcode.com/problems/roman-to-integer/solution/) | [Java](0013-Roman-to-Integer/src/Solution.java) | Math, String |
 
 ## Binary Search
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
