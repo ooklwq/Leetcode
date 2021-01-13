@@ -1,6 +1,6 @@
 class Solution {
 
-    //Time Complexity: O(n)
+    //Time Complexity: O(logx)
     //Space Complexity: O(1)
     public int reverse(int x) {
         int res = 0;
@@ -8,6 +8,8 @@ class Solution {
 //            if (Math.abs(res) > Integer.MAX_VALUE / 10) {
 //                return 0;
 //            }
+//            res = res * 10 + x % 10;
+//            x /= 10;
             int tail = x % 10;
             int newResult = res * 10 + tail;
             if ((newResult - tail) / 10 != res){
