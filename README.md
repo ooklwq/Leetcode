@@ -196,6 +196,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy |[Solution](https://leetcode.com/problems/longest-common-prefix/solution/) | [Java](0014-Longest-Common-Prefix/src/Solution.java) | String |
+| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | Easy |[Solution](https://leetcode.com/problems/implement-strstr/solution/) | [Java](0028-Implement-strStr()/src/Solution.java) | String, Two Pointers |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | Easy |[Solution](https://leetcode.com/problems/unique-morse-code-words/solution/) | [Java](0804-Unique-Morse-Code-Words/src/Solution.java) | String |
 
 ## Segment Tree
