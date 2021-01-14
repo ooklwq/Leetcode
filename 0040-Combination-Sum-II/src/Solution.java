@@ -4,8 +4,8 @@ import java.util.List;
 
 class Solution {
 
-    //Time Complexity: O(n*2^n)
-    //Space Complexity: O(n)
+    //Time Complexity: O(n*target)
+    //Space Complexity: O(target)
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
         if (candidates == null || candidates.length == 0) {
