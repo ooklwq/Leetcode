@@ -117,6 +117,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Medium |[Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) | [Java](0215-Kth-Largest-Element-in-an-Array/src/Solution.java) | Heap, Divide and Conquer |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | Hard |[Solution](https://leetcode.com/problems/sliding-window-maximum/solution/) | [Java](0239-Sliding-Window-Maximum/src/Solution.java) | Heap, Sliding Window, Dequeue |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium |[Solution](https://leetcode.com/problems/top-k-frequent-elements/solution/) | [Java](0347-Top-K-Frequent-Elements/src/Solution.java) | Heap, HashTable |
+| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Easy |[Solution](https://leetcode.com/problems/kth-largest-element-in-a-stream/solution/) | [Java](0703-Kth-Largest-Element-in-a-Stream/src/KthLargest.java) | Heap, Design |
 
 ## Two Pointers
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
