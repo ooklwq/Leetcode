@@ -199,6 +199,7 @@
 | 078 | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium |[Solution](https://leetcode.com/problems/subsets/solution/) | [Java](0078-Subsets/src/Solution.java) | Backtracking, Array, Bit Manipulation |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium |[Solution](https://leetcode.com/problems/word-search/solution/) | [Java](0079-Word-Search/src/Solution.java) | Backtracking, Array |
 | 090 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | Medium |[Solution](https://leetcode.com/problems/subsets-ii/solution/) | [Java](0090-Subsets-II/src/Solution.java) | Backtracking, Array |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | Hard |[Solution](https://leetcode.com/problems/word-search-ii/solution/) | [Java](0212-Word-Search-II/src/Solution.java) | Backtracking, Trie |
 
 ## Bit Manipulation
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
