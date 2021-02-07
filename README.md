@@ -110,7 +110,9 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy |[Solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) | [Java](0387-First-Unique-Character-in-a-String/src/Solution1.java) | HashTable, String |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | Medium |[Solution](https://leetcode.com/problems/4sum-ii/solution/) | [Java](0454-4Sum-II/src/Solution.java) | HashTable, Binary Search |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Medium |[Solution](https://leetcode.com/problems/subarray-sum-equals-k/solution/) | [Java](0560-Subarray-Sum-Equals-K/src/Solution1.java) | HashTable |
-| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | Easy |[Solution](https://leetcode.com/problems/set-mismatch/solution/) | [Java](0645-Set-mismatch/src/Solution.java) | HashTable, Math |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | Easy |[Solution](https://leetcode.com/problems/set-mismatch/solution/) | [Java](0645-Set-Mismatch/src/Solution.java) | HashTable, Math |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | Easy |[Solution](https://leetcode.com/problems/design-hashset/solution/) | [Java](0705-Design-HashSet/src/MyHashSet.java) | HashTable, Design |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | Easy |[Solution](https://leetcode.com/problems/design-hashmap/solution/) | [Java](0706-Design-HashMap/src/MyHashMap.java) | HashTable, Design |
 
 ## Heap
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
