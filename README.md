@@ -115,6 +115,7 @@
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | Easy |[Solution](https://leetcode.com/problems/set-mismatch/solution/) | [Java](0645-Set-Mismatch/src/Solution.java) | HashTable, Math |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | Easy |[Solution](https://leetcode.com/problems/design-hashset/solution/) | [Java](0705-Design-HashSet/src/MyHashSet.java) | HashTable, Design |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | Easy |[Solution](https://leetcode.com/problems/design-hashmap/solution/) | [Java](0706-Design-HashMap/src/MyHashMap.java) | HashTable, Design |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | Easy |[Solution](https://leetcode.com/problems/jewels-and-stones/solution/) | [Java](0771-Jewels-and-Stones/src/Solution.java) | HashTable |
 
 ## Heap
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
