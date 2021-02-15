@@ -36,6 +36,11 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Easy |[Solution](https://leetcode.com/problems/min-stack/solution/) | [Java](0155-Min-Stack/src/MinStack2.java) | Stack |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Medium |[Solution](https://leetcode.com/problems/daily-temperatures/solution/) | [Java](0739-Daily-Temperatures/src/Solution.java) | Stack, HashTable |
 
+## Queue
+| ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
+| --- | --- | :---: | :---: | :---: | :---: | 
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | Medium |[Solution](https://leetcode.com/problems/design-circular-queue/solution/) | [Java](0622-Design-Circular-Queue/src/Solution.java) | Queue, Design |
+
 ## LinkedList
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
