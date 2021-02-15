@@ -5,6 +5,7 @@
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Easy |[Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/) | [Java](0026-Remove-Duplicates-from-Sorted-Array/src/Solution.java) | Array, Two Pointers |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy |[Solution](https://leetcode.com/problems/remove-element/solution/) | [Java](0027-Remove-Element/src/Solution.java) | Array, Two Pointers |
 | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | Medium |[Solution](https://leetcode.com/problems/rotate-image/solution/) | [Java](0048-Rotate-Image/src/Solution.java) | Array |
+| 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium |[Solution](https://leetcode.com/problems/spiral-matrix/solution/) | [Java](0054-Spiral-Matrix/src/Solution.java) | Array |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | Medium |[Solution](https://leetcode.com/problems/merge-intervals/solution/) | [Java](0056-Merge-Intervals/src/Solution.java) | Array, Sort |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | Easy |[Solution](https://leetcode.com/problems/plus-one/solution/) | [Java](0066-Plus-One/src/Solution.java) | Array |
 | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | Medium |[Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solution/) | [Java](0080-Remove-Duplicates-from-Sorted-Array-II/src/Solution.java) | Array, Two Pointers |
@@ -192,6 +193,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 017 | [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combination-of-a-phone-number/description/) | Medium |[Solution](https://leetcode.com/problems/letter-combination-of-a-phone-number/solution/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/src/Solution.java) | String, Backtracking |
+| 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | Easy |[Solution](https://leetcode.com/problems/add-binary/solution/) | [Java](0067-Add-Binary/src/Solution.java) | String, Math |
 
 ## Backtracking
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
