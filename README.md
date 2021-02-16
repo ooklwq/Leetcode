@@ -40,6 +40,7 @@
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | Medium |[Solution](https://leetcode.com/problems/decode-string/solution/) | [Java](0394-Decode-String/src/Solution.java) | Stack, Depth-first Search |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | Medium |[Solution](https://leetcode.com/problems/01-matrix/solution/) | [Java](0542-01-Matrix/src/Solution.java) | Depth-first Search, Breath-first Search |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Medium |[Solution](https://leetcode.com/problems/daily-temperatures/solution/) | [Java](0739-Daily-Temperatures/src/Solution.java) | Stack, HashTable |
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | Medium |[Solution](https://leetcode.com/problems/keys-and-rooms/solution/) | [Java](0841-Keys-and-Rooms/src/Solution.java) | Depth-first Search, Graph |
 
 ## Queue
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
