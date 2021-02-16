@@ -35,6 +35,8 @@
 | 020 | [Valida Parentheses](https://leetcode.com/problems/valida-parentheses/description/) | Easy |[Solution](https://leetcode.com/problems/valida-parentheses/solution/) | [Java](0020-Valid-Parentheses/src/Solution2.java) | Stack |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Medium |[Solution](https://leetcode.com/problems/evaluate-reverse-polish-notation/solution/) | [Java](0150-Evaluate-Reverse-Polish-Notation/src/Solution.java) | Stack |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Easy |[Solution](https://leetcode.com/problems/min-stack/solution/) | [Java](0155-Min-Stack/src/MinStack2.java) | Stack |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | Easy |[Solution](https://leetcode.com/problems/implement-stack-using-queues/solution/) | [Java](0225-Implement-Stack-using-Queues/src/MyStack.java) | Stack, Design |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-syacks/description/) | Easy |[Solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | [Java](0232-Implement-Queue-using-Stacks/src/MyQueue.java) | Stack, Design |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Medium |[Solution](https://leetcode.com/problems/daily-temperatures/solution/) | [Java](0739-Daily-Temperatures/src/Solution.java) | Stack, HashTable |
 
 ## Queue
