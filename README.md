@@ -33,6 +33,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 020 | [Valida Parentheses](https://leetcode.com/problems/valida-parentheses/description/) | Easy |[Solution](https://leetcode.com/problems/valida-parentheses/solution/) | [Java](0020-Valid-Parentheses/src/Solution2.java) | Stack |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Medium |[Solution](https://leetcode.com/problems/evaluate-reverse-polish-notation/solution/) | [Java](0150-Evaluate-Reverse-Polish-Notation/src/Solution.java) | Stack |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Easy |[Solution](https://leetcode.com/problems/min-stack/solution/) | [Java](0155-Min-Stack/src/MinStack2.java) | Stack |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Medium |[Solution](https://leetcode.com/problems/daily-temperatures/solution/) | [Java](0739-Daily-Temperatures/src/Solution.java) | Stack, HashTable |
 
