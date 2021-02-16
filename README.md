@@ -37,6 +37,8 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Easy |[Solution](https://leetcode.com/problems/min-stack/solution/) | [Java](0155-Min-Stack/src/MinStack2.java) | Stack |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | Easy |[Solution](https://leetcode.com/problems/implement-stack-using-queues/solution/) | [Java](0225-Implement-Stack-using-Queues/src/MyStack.java) | Stack, Design |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-syacks/description/) | Easy |[Solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | [Java](0232-Implement-Queue-using-Stacks/src/MyQueue.java) | Stack, Design |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | Medium |[Solution](https://leetcode.com/problems/decode-string/solution/) | [Java](0394-Decode-String/src/Solution.java) | Stack, Depth-first Search |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | Medium |[Solution](https://leetcode.com/problems/01-matrix/solution/) | [Java](0542-01-Matrix/src/Solution.java) | Depth-first Search, Breath-first Search |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | Medium |[Solution](https://leetcode.com/problems/daily-temperatures/solution/) | [Java](0739-Daily-Temperatures/src/Solution.java) | Stack, HashTable |
 
 ## Queue
