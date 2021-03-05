@@ -45,8 +45,8 @@ class Solution2 {
         swap(nums, l, randomIndex);
         int pivot = nums[l];
         int i = l + 1, j = r;
-        //[l+1, i-1] <= pivot
-        //[j+1, r] >= pivot
+        //[l+1, i) <= pivot
+        //(j, r] >= pivot
         while (i <= j){
             while (i <= j && nums[i] < pivot) i++;
             while (i <= j && nums[j] > pivot) j--;
