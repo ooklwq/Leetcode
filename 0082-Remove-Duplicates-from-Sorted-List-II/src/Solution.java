@@ -3,7 +3,7 @@ class Solution {
     //Time Complexity: O(n)
     //Space Complexity: O(n)
     public ListNode deleteDuplicates(ListNode head) {
-        if (head == null || head.next == null) {
+        if (head == null) {
             return null;
         }
         if (head.next != null && head.next.val == head.val ){
