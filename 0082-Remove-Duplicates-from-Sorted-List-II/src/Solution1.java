@@ -1,7 +1,7 @@
 class Solution1 {
 
     //Time Complexity: O(n)
-    //Space Complexity: O(n)
+    //Space Complexity: O(1)
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null) {
             return null;
