@@ -7,19 +7,19 @@ class Solution2 {
     //Space Complexity: O(1)
     public Node connect(Node root) {
         Node dummyHead = new Node(0);
-        Node pre = dummyHead, head = root;
+        Node cur = dummyHead, head = root;
         while (root != null) {
             if (root.left != null) {
-                pre.next = root.left;
-                pre = pre.next;
+                cur.next = root.left;
+                cur = cur.next;
             }
             if (root.right != null) {
-                pre.next = root.right;
-                pre = pre.next;
+                cur.next = root.right;
+                cur = cur.next;
             }
             root = root.next;
             if (root == null) {
-                pre = dummyHead;
+                cur = dummyHead;
                 root = dummyHead.next;
                 dummyHead.next = null;
             }
