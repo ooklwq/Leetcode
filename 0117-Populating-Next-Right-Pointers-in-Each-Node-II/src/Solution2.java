@@ -6,8 +6,8 @@ class Solution2 {
     //Time Complexity: O(n)
     //Space Complexity: O(1)
     public Node connect(Node root) {
-        Node dummyHead = new Node(0);
-        Node cur = dummyHead, head = root;
+        Node dummy = new Node(0);
+        Node cur = dummy, head = root;
         while (root != null) {
             if (root.left != null) {
                 cur.next = root.left;
@@ -19,9 +19,9 @@ class Solution2 {
             }
             root = root.next;
             if (root == null) {
-                cur = dummyHead;
-                root = dummyHead.next;
-                dummyHead.next = null;
+                cur = dummy;
+                root = dummy.next;
+                dummy.next = null;
             }
         }
         return head;
