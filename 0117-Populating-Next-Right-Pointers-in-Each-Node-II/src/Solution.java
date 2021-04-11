@@ -22,9 +22,8 @@ class Solution {
         if (root.left != null){
             root.left.next = root.right != null ? root.right : next;
         }
-        connect(root.left);
         connect(root.right);
-//        connect(root.left);
+        connect(root.left);
         return root;
     }
 }
