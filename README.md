@@ -246,6 +246,7 @@
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |
 | --- | --- | :---: | :---: | :---: | :---: | 
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium |[Solution](https://leetcode.com/problems/lru-cache/solution/) | [Java](0146-LRU-Cache/src/LRUCache.java) | Design |
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | Hard |[Solution](https://leetcode.com/problems/lfu-cache/solution/) | [Java](0460-LFU-Cache/src/LFUCache.java) | Design |
 
 ## String
 | ID | Title | Difficulty |Official<br/>Solution | Java | Tags |

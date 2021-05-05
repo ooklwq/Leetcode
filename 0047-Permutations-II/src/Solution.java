@@ -21,13 +21,6 @@ class Solution {
         }
         int preNum = nums[0] - 1;
         for (int i = 0; i < nums.length; i++) {
-//            if (used[i]) continue;
-//            if (i > 0 && nums[i] == nums[i-1] && !used[i-1]) continue;
-//            curList.add(nums[i]);
-//            used[i] = true;
-//            backtrack(res, nums, used, curList);
-//            used[i] = false;
-//            curList.remove(curList.size() - 1);
             if (!used[i] && nums[i] != preNum){
                 preNum = nums[i];
                 curList.add(nums[i]);
